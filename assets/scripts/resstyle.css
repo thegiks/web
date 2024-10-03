@@ -128,8 +128,8 @@
     }
 }
 
-@media (max-width: 450px) {
-
+@media (max-width: 480px) {
+    
     /*topnav*/
 
     .top-whatsapp{
@@ -138,7 +138,6 @@
     }
 
     /*navmenu*/
-
     .nav-menu{
         position: relative;
     }
@@ -394,202 +393,6 @@
     .copyright p{
         font-size: 12px;
     }
-
-    /*jobspage*/
-
-    .job-list-cnt{
-        margin: 30px auto;
-        display: unset;
-    }
-    .jb-lst-l{
-        width: 96%;
-        margin: auto;
-    }
-    .jb-lst-l h4{
-        font-size: 18px;
-        margin-top: 50px;
-    }
-    .jb-lst-js{
-        width: 100%;
-    }
-    .jb{
-        width: 100%;
-    }
-    .jb-img img{
-        height: 60px;
-        width: 60px;
-        margin-top: 30px;
-    }
-    .jb-ttl h4{
-        font-size: 12px;
-        margin-top: 5px;
-    }
-    .jb-ttl p{
-        font-size: 10px;
-    }
-    .jb-ttl p span,
-    .jb-ttl h5 .ap-nd{
-        font-size: 9px;
-    }
-    .jb-ttl h5 .ap-nd{
-        margin: 10px 0;
-    }
-    .jb-ttl h5 {
-        display: grid;
-    }
-    .jb-ttl h5 .deu{
-        padding: 2px 5px;
-        margin: 5px 2px;
-       font-size: 9px;
-    }
-    .jb-btns h6,
-    .jb-btns p i,
-    .jb-btns h6 i{
-        font-size: 10px;
-    }
-    .jb-btns h6 i{
-        padding: 2px;
-    }
-    .jb-btns h5 a{
-        padding: 5px 10px;
-        margin-top: 20px;
-    }
-    .jb-lst-r{
-        width: 96%;
-        display: grid;
-        position: unset;
-        right: unset;
-        margin: auto;
-    }
-    .jb-lst-r-r{
-        position: absolute;
-        top: 15%;
-        width: 100%;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin: unset;
-        left: 0;
-        background-color: rgb(235, 235, 235);
-        border-radius: unset;
-    }
-    .jb-lst-r-r .jl-rr-ttl{
-        display: none;
-    }
-    .jb-lst-r-r .jb-ct,
-    .jb-lst-r-r .jbl-f-b-pstg{
-        position: relative;
-        background-color: white;
-        border-radius: 5px;
-        padding: 1px 5px;
-    }
-    .jb-lst-r-r .jb-ct ul,
-    .jb-lst-r-r .jbl-f-b-pstg ul{
-        width: 200%;
-        position: absolute;
-        display: grid;
-        top: 120%;
-        background-color: rgb(121, 53, 53);
-        padding: 5px;
-        border-radius: 5px;
-        display: none;
-    }
-    .jb-lst-r-r .jb-ct ul{
-        left: -5%;
-    }
-    .jbl-f-b-pstg ul{
-        left: -100%;
-    }
-    .jb-lst-r-l{
-        width: 95%;
-    }
-    .jb-dtls{
-        display: none;
-        padding: 10px 0;
-    }
-    .jb-p-ttl h4{
-        font-size: 16px;
-        margin-bottom: 10px;
-    }
-    .jb-dtls .jb-cntnts{
-        width: 98%;
-        height: fit-content;
-    }
-    .jb-respo ul li,
-    .jb-req ul li{
-        font-size: 12px;
-    }
-    .jb-ap-ar .jb-frm textarea{
-        height: 70px;
-    }
-    .jb-cntnts h4{
-        font-size: 18px;
-    }
-    .jb-ap-ar h5{
-        font-size: 15px;
-    }
-
-    /*cleaning/heigiene page*/
-
-    .pd{
-        width: 96%;
-        height: 150px;
-        padding: 0px 5px;
-        margin: 20px auto;
-    }
-    .pd img{
-        height: 140px;
-    }
-    .cln-svcs-cnt{
-        width: 96%;
-    }
-    .cln-pkg{
-        width: 98%;
-        margin: 10px 0px;
-        height: fit-content;
-    }
-
-    /*Software page*/
-
-    .sft-s-s{
-        width: 96%;
-    }
-    .sft-s-s-cnt{
-        display: grid;
-        align-items: center;
-        margin: 20px auto;
-        padding: unset;
-        width: 96%;
-    }
-    .sft-c{
-        float: unset;
-    }
-    .sft-txt-s{
-        width: 92%;
-        position: absolute;
-        background-color: rgba(0, 0, 0, 0.685);
-        color: white;
-        padding: 5px;
-        border-radius: 5px;
-        height: 300px;
-    }
-    .sft-txt-s .sft-tl h2{
-        font-size: 16px;
-        margin: 10px 0;
-        color: rgb(247, 125, 11);
-    }
-    .sft-prg p{
-        font-size: 12px;
-    }
-    .prjcts{
-        width: 95%;
-        display: grid;
-        gap: unset;
-    }
-    .prjct{
-        width: 100%;
-        margin-bottom: 20px;
-    }
 }
 
 @media (max-width: 400px) {
@@ -604,4 +407,3 @@
         line-height: 25px;
     }
 }
-                       

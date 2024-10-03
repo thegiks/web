@@ -300,7 +300,7 @@ body{
     color: white;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 480px) {
     .container{
         overflow-x: hidden;
         height: 60vh;
